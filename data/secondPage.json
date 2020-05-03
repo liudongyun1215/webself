@@ -2,35 +2,45 @@
     "lists": [
         {
             "id": 1,
-            "img": "https://mmbiz.qlogo.cn/mmbiz_jpg/aiartEDhEsJj9BteYhiceIfKkazLFJwDST9TTfT5Sw8CZd5OABgvM1q5sVkRfRdLJuxjFMEibrm9wNI6EwmOU293g/0?wx_fmt=jpeg",
-            "title": "初始webpack",
-            "intro": "服务接口使用的在线ws://xxxxx",
-            "date": "2019-7-23",
-            "tech": "vue+websocket"
+            "img": "https://mmbiz.qlogo.cn/mmbiz_jpg/aiartEDhEsJgeyKORDmuBVibKk5GJlGIj3PTDvw6WYWVbTyCCibm56b5JfkZ912sVGlRpEQMILund6ue3pekEjhUw/0?wx_fmt=jpeg",
+            "title": "翻牌+拖拽效果",
+            "intro": "小程序中通过<movable-area>和<movable-view>,结合css3动画，以及小程序的bindtouch事件",
+            "date": "2019-9-18"
         },
         {
             "id": 2,
-            "img": "https://mmbiz.qlogo.cn/mmbiz_jpg/aiartEDhEsJgeyKORDmuBVibKk5GJlGIj3PTDvw6WYWVbTyCCibm56b5JfkZ912sVGlRpEQMILund6ue3pekEjhUw/0?wx_fmt=jpeg",
+            "img": "https://mmbiz.qlogo.cn/mmbiz_jpg/aiartEDhEsJhBo78aUJL8M19UBbBYUNdbkjnFxDA4kdHIosicicdhzqI0gs6HQaWLrWMvq5xicNTUsiamHHs2ImGhXA/0?wx_fmt=jpeg",
             "title": "卡牌翻牌效果",
-            "intro": "小程序中使用css3动画编写3D动画效果",
-            "date": "2019-9-18",
-            "tech": "小程序+css3"
+            "intro": "使用vue+vantUI+css3动画实现移动端一个翻牌小互动游戏效果",
+            "date": "2019-7-5"
         },
         {
             "id": 3,
-            "img": "https://mmbiz.qlogo.cn/mmbiz_jpg/aiartEDhEsJgfZyLVv8HiciaReZyGAyYeqJib0OduDtuLWtZ4qlp1juKgAibEIqXBK8SZvlcnFzU6rKOzRecImfh6gQ/0?wx_fmt=jpeg",
-            "title": "实时搜索",
-            "intro": "vue移动端实时搜索效果",
-            "date": "2019-7-8",
-            "tech": "vantUI+vue"
+            "img": "https://mmbiz.qlogo.cn/mmbiz_jpg/aiartEDhEsJj9BteYhiceIfKkazLFJwDST9TTfT5Sw8CZd5OABgvM1q5sVkRfRdLJuxjFMEibrm9wNI6EwmOU293g/0?wx_fmt=jpeg",
+            "title": "实时通讯",
+            "intro": "使用到了websocket和ws://服务接口，布局使用到了flex",
+            "date": "2019-7-23"
         },
         {
             "id": 4,
-            "img": "https://mmbiz.qlogo.cn/mmbiz_jpg/aiartEDhEsJgeyKORDmuBVibKk5GJlGIj3PTDvw6WYWVbTyCCibm56b5JfkZ912sVGlRpEQMILund6ue3pekEjhUw/0?wx_fmt=jpeg",
-            "title": "卡牌翻牌效果",
-            "intro": "小程序中使用css3动画编写3D动画效果",
-            "date": "2019-7-8",
-            "tech": "vantUI+vue"
+            "img": "https://mmbiz.qlogo.cn/mmbiz_jpg/aiartEDhEsJg2QqWKTic1icic2GHVdvLSQdPBH5NaK8SEKZqYkfO5FsxIlECiciaaibQwl28oJviae9R09nutJU4IvH8gA/0?wx_fmt=jpeg",
+            "title": "Echart手柄",
+            "intro": "使用Echart API中关于手柄的dataZoom的相关配置",
+            "date": "2019-6-13"
+        },
+        {
+            "id": 5,
+            "img": "https://mmbiz.qlogo.cn/mmbiz_jpg/aiartEDhEsJhgTgFjJFneb6Q78uOHTeShIfasqJ8g556S0mcbxHuxwQR5PK3Mrv4ibCs9foZemmJMkRNnc1E4yhA/0?wx_fmt=jpeg",
+            "title": "图片上传",
+            "intro": "利用Element中<el-upload>，并结合formData实现图片上传",
+            "date": "2019-4-29"
+        },
+        {
+            "id": 6,
+            "img": "https://mmbiz.qlogo.cn/mmbiz_jpg/aiartEDhEsJgfZyLVv8HiciaReZyGAyYeqJib0OduDtuLWtZ4qlp1juKgAibEIqXBK8SZvlcnFzU6rKOzRecImfh6gQ/0?wx_fmt=jpeg",
+            "title": "实时搜索",
+            "intro": "通过<vant-search>实现搜索布局，并通过vue的computed,通过filter进行数据筛选",
+            "date": "2019-7-8"
         }
     ]
 }
